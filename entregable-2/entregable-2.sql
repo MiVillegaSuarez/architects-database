@@ -1,61 +1,61 @@
--- Creacion de Base de Datos
+-- Creacion de Base de Datos DDL
 
 CREATE DATABASE entregable_2;
 
 USE entregable_2;
 
--- Creacion de tablas
+-- Creacion de tablas DDL
     CREATE TABLE Materias_primas (
-        Id_materia_prima INT AUTO_INCREMENT,
+        Id_materia_prima INT AUTO_INCREMENT NOT NULL UNIQUE,
         nombre_materia_prima VARCHAR(255),
         usos VARCHAR(255),
         pais_origen VARCHAR(255),
-        PRIMARY KEY(Id_materia_prima)
+            PRIMARY KEY(Id_materia_prima)
     ); 
 
     CREATE TABLE Tipos_cerveza (
-        Id_tipo_cerveza INT AUTO_INCREMENT,
+        Id_tipo_cerveza INT AUTO_INCREMENT NOT NULL UNIQUE,
         nombre_tipo_cerveza VARCHAR(255),
-        PRIMARY KEY(Id_tipo_cerveza)
+            PRIMARY KEY(Id_tipo_cerveza)
     );
 
     CREATE TABLE Categorias_cerveza (
-        Id_categoria_cerveza INT AUTO_INCREMENT,
+        Id_categoria_cerveza INT AUTO_INCREMENT NOT NULL UNIQUE,
         nombre_categoria_cerveza VARCHAR(255),
-        PRIMARY KEY(Id_categoria_cerveza)
+            PRIMARY KEY(Id_categoria_cerveza)
     );
 
     CREATE TABLE Cervezas (
-        Id_cerveza INT AUTO_INCREMENT,
+        Id_cerveza INT AUTO_INCREMENT NOT NULL UNIQUE,
         nombre_cerveza VARCHAR(255),
         color VARCHAR(255),
         grado_alcohol DECIMAL,
         pais_origen VARCHAR(255),
         fecha_creacion DATE,
         id_categoria INT,
-        PRIMARY KEY(Id_cerveza),
-        FOREIGN KEY(id_categoria) REFERENCES Categorias_cerveza(Id_categoria_cerveza)
+            PRIMARY KEY(Id_cerveza),
+            FOREIGN KEY(id_categoria) REFERENCES Categorias_cerveza(Id_categoria_cerveza)
     );
 
--- Tablas de ralacion
+-- Tablas de ralacion DDL
 
     CREATE TABLE Cervezas_materias_primas (
         id_cerveza INT,
         id_materia_prima INT,
-        PRIMARY KEY(id_cerveza, id_materia_prima),
-        FOREIGN KEY(id_cerveza) REFERENCES Cervezas(Id_cerveza),
-        FOREIGN KEY(id_materia_prima) REFERENCES Materias_primas(Id_materia_prima)
+            PRIMARY KEY(id_cerveza, id_materia_prima),
+            FOREIGN KEY(id_cerveza) REFERENCES Cervezas(Id_cerveza),
+            FOREIGN KEY(id_materia_prima) REFERENCES Materias_primas(Id_materia_prima)
     );
 
     CREATE TABLE Categorias_tipos (
         id_categoria_cerveza INT,
         id_tipo_cerveza INT,
-        PRIMARY KEY(id_categoria_cerveza, id_tipo_cerveza),
-        FOREIGN KEY(id_categoria_cerveza) REFERENCES Categorias_cerveza(Id_categoria_cerveza),
-        FOREIGN KEY(id_tipo_cerveza) REFERENCES Tipos_cerveza(Id_tipo_cerveza)
+            PRIMARY KEY(id_categoria_cerveza, id_tipo_cerveza),
+            FOREIGN KEY(id_categoria_cerveza) REFERENCES Categorias_cerveza(Id_categoria_cerveza),
+            FOREIGN KEY(id_tipo_cerveza) REFERENCES Tipos_cerveza(Id_tipo_cerveza)
     );
 
--- Ingreso de informacion a las tablas
+-- Ingreso de informacion a las tablas DML
 
     INSERT INTO Categorias_cerveza (nombre_categoria_cerveza) VALUES 
     ('Lagers'),
@@ -81,7 +81,7 @@ USE entregable_2;
     ('Aguila', 'Ambar', 3.0, 'Colombia', '2020-09-06', 1),
     ('Club Colombia', 'Oscuro', 4.5, 'Colombia', '2021-02-19', 2);
 
--- Ingreso de informacion a las tablas de relacion
+-- Ingreso de informacion a las tablas de relacion DML
 
     INSERT INTO Cervezas_materias_primas (id_cerveza, id_materia_prima) VALUES 
     (1, 1),
