@@ -79,7 +79,9 @@ USE entregable_2;
     INSERT INTO Cervezas (nombre_cerveza, color, grado_alcohol, pais_origen, fecha_creacion, id_categoria) VALUES 
     ('Poker', 'Palido', 3.5, 'Colombia', '2019-06-24', 1),
     ('Aguila', 'Ambar', 3.0, 'Colombia', '2020-09-06', 1),
-    ('Club Colombia', 'Oscuro', 4.5, 'Colombia', '2021-02-19', 2);
+    ('Club Colombia', 'Oscuro', 4.5, 'Colombia', '2021-02-19', 1),
+    ('Heineken', 'Palido', 4.3, 'Paises Bajos', '2020-05-18', 2),
+    ('Modelo', 'Oscuro', 5.2, 'Mexico', '2018-10-05', 2);
 
 -- Ingreso de informacion a las tablas de relacion DML
 
