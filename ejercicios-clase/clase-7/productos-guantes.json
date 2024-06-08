@@ -1,0 +1,126 @@
+[
+    {
+        "id": "guante101",
+        "imagen": "https://www.adidas.co/guantes-de-entrenamiento/II5598.html",
+        "precio": "$149.950",
+        "titulo": "Guantes de Entrenamiento",
+        "uso": "Training",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante102",
+        "imagen": "https://www.adidas.co/guantes-de-arquero-predator-training/IX3870.html",
+        "precio": "$169.950",
+        "titulo": "Guantes de Arquero Predator Training",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante103",
+        "imagen": "https://www.adidas.co/guantes-de-arquero-predator-pro-hybrid/IA0858.html",
+        "precio": "$699.950",
+        "titulo": "Guantes de Arquero Predator Pro Hybrid",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante104",
+        "imagen": "https://www.adidas.co/guantes-tiro-league/HS9760.html",
+        "precio": "$109.950",
+        "titulo": "Guantes Tiro League",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante105",
+        "imagen": "https://www.adidas.co/trx-cold-rdy-gl/IN4639.html",
+        "precio": "$249.950",
+        "titulo": "TRX COLD RDY GL",
+        "uso": "TERREX",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante106",
+        "imagen": "https://www.adidas.co/guantes-de-arquero-predator-pro-hybrid/IA0856.html",
+        "precio": "$699.950",
+        "titulo": "Guantes de Arquero Predator Pro Hybrid",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante107",
+        "imagen": "https://www.adidas.co/guantes-predator-match/IA0875.html",
+        "precio": "$249.950",
+        "titulo": "Guantes Predator Match",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante108",
+        "imagen": "https://www.adidas.co/guantes-de-arquero-copa-club/IX3834.html",
+        "precio": "$129.950",
+        "titulo": "Guantes de Arquero Copa Club",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante109",
+        "imagen": "https://www.adidas.co/guantes-arquero-copa-club/IQ4016.html",
+        "precio": "$179.950",
+        "titulo": "Guantes Arquero Copa Club",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante110",
+        "imagen": "https://www.adidas.co/guantes-de-arquero-copa-pro/IQ4013.html",
+        "precio": "$599.950",
+        "titulo": "Guantes de Arquero Copa Pro",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante111",
+        "imagen": "https://www.adidas.co/guantes-de-arquero-copa-club-adolescentes/IN1605.html",
+        "precio": "$149.950",
+        "titulo": "Guantes de Arquero Copa Club (Adolescentes)",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante112",
+        "imagen": "https://www.adidas.co/guantes-de-golf-bape-x-adidas/IN1425.html",
+        "precio": "$259.950",
+        "titulo": "Guantes de Golf BAPE x adidas",
+        "uso": "Hombre Originals",
+        "beneficios": "envìo gratis",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante113",
+        "imagen": "https://www.adidas.co/guantes-de-arquero-predator-para-entrenamientos/IQ4027.html",
+        "precio": "$199.950",
+        "titulo": "Guantes de Arquero Predator para Entrenamientos",
+        "uso": "Fùtbol",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante114",
+        "imagen": "https://www.adidas.co/guantes-de-arquero-copa-league/IQ4011.html",
+        "precio": "$449.950",
+        "titulo": "Guantes de Arquero Copa League",
+        "uso": "Fùtbol",
+        "beneficios": "envìo gratis",
+        "categoria": "Guantes"
+    },
+    {
+        "id": "guante115",
+        "imagen": "https://www.adidas.co/guantes-aeroready/HT3904.html",
+        "descuento": "-40%",
+        "precio": "$179.950",
+        "precio-descuento": "$106.171",
+        "titulo": "Guantes AEROREADY",
+        "uso": "Training",
+        "categoria": "Guantes"
+    }
+]

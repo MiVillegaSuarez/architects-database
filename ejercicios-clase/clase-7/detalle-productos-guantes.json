@@ -1,0 +1,75 @@
+[
+    {
+    "id": "guante101",
+    "imagen-1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/5d459cb8fb0543f19a32afd000b0e12b_9366/Guantes_de_Entrenamiento_Negro_II5598_01_standard.jpg",
+    "imagen-2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/7ed951a46a01484295a9afd000b0e6ef_9366/Guantes_de_Entrenamiento_Negro_II5598_41_detail_hover.jpg",
+    "imagen-3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/aeff23aa9f764a75ab0fafd000b0ecf4_9366/Guantes_de_Entrenamiento_Negro_II5598_42_detail.jpg",
+    "uso": "Training",
+    "nombre-producto": "GUANTES DE ENTRENAMIENTO",
+    "precio": "149.950",
+    "pago-cuotas": "Hasta 12 x $12.495,84 más interés bancario.",
+    "color": "Black",
+    "medidas": [{
+        "talla-1": "XS",
+        "talla-2": "S",
+        "talla-3": "M",
+        "talla-4": "L",
+        "talla-5": "XL",
+        "talla-6": "2XL"
+        }],
+    "guia-tallas": "Guía de tallas",
+    "info-venta":[{
+        "info-1": "ENVÍO GRATIS A PARTIR DE $249.999",
+        "info-2": "PAGA SEGURO PUEDES PAGAR EN LÍNEA",
+        "info-3": "DEVOLUCIONES GRATIS ¿NO ES TU TALLA? DEVUELVE EN UN PLAZO DE 60 DÍAS"
+        }],
+    "titulo-descripcion": "GUANTES ANTIDESLIZANTES FUNCIONALES QUE SE ENCARGAN DE TODO",
+    "texto-descripcion": "Estos guantes de entrenamiento adidas se encargan de todos los detalles para que puedas concentrarte en el peso que estás moviendo. Confeccionados en un material resistente, aguantan el desgaste y el abuso de tus sesiones de entrenamiento, desde el calentamiento hasta el último set. El cierre por contacto en las muñecas asegura un ajuste seguro, y la palma antideslizante te brinda un buen agarre en mancuernas, pesas y asas de mano. El material en los pulgares te da el detalle que no sabías que necesitabas, y las inserciones de malla en la parte superior mantienen la transpirabilidad alta.",
+    "detalles-producto": [{
+        "detalle-1": "Cuero sintético 55 % poliéster reciclado, 45 % poliuretano",
+        "detalle-2": "Paneles de malla en la parte superior",
+        "detalle-3": "Palma antideslizante",
+        "detalle-4": "Tira ajustable de cierre por contacto en la muñeca",
+        "detalle-5": "Tejido que se seca en los pulgares",
+        "detalle-6": "Color del artículo: Black",
+        "detalle-7": "Número de artículo: II5598"
+        }]
+    },
+    {
+        "id": "guante102",
+        "imagen-1": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/2f352cab3662446aa1198ce34f5e8fd7_9366/Guantes_de_Arquero_Predator_Training_Azul_IX3870_23_hover_model.jpg",
+        "imagen-2": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3d621677823144c18b61b605e4126d9d_9366/Guantes_de_Arquero_Predator_Training_Azul_IX3870_01_standard.jpg",
+        "imagen-3": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/517ba6f4ec9b4ba08b9e9fc12a4e4fea_9366/Guantes_de_Arquero_Predator_Training_Azul_IX3870_41_detail.jpg",
+        "imagen-4": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/f0df5e65b4c345ec81db2bc4e73fddd1_9366/Guantes_de_Arquero_Predator_Training_Azul_IX3870_42_detail.jpg",
+        "uso": "Fútbol",
+        "nombre-producto": "GUANTES DE ENTRENAMIENTO",
+        "precio": "169.950",
+        "pago-cuotas": "Hasta 12 x $12.495,84 más interés bancario.",
+        "color": "Lucid Blue / Solar Red / White",
+        "medidas": [{
+            "talla-1": "XS",
+            "talla-2": "S",
+            "talla-3": "M",
+            "talla-4": "L",
+            "talla-5": "XL",
+            "talla-6": "2XL"
+            }],
+        "guia-tallas": "Guía de tallas",
+        "info-venta":[{
+            "info-1": "ENVÍO GRATIS A PARTIR DE $249.999",
+            "info-2": "PAGA SEGURO PUEDES PAGAR EN LÍNEA",
+            "info-3": "DEVOLUCIONES GRATIS ¿NO ES TU TALLA? DEVUELVE EN UN PLAZO DE 60 DÍAS"
+            }],
+        "titulo-descripcion": "GUANTES ANTIDESLIZANTES FUNCIONALES QUE SE ENCARGAN DE TODO",
+        "texto-descripcion": "Estos guantes de entrenamiento adidas se encargan de todos los detalles para que puedas concentrarte en el peso que estás moviendo. Confeccionados en un material resistente, aguantan el desgaste y el abuso de tus sesiones de entrenamiento, desde el calentamiento hasta el último set. El cierre por contacto en las muñecas asegura un ajuste seguro, y la palma antideslizante te brinda un buen agarre en mancuernas, pesas y asas de mano. El material en los pulgares te da el detalle que no sabías que necesitabas, y las inserciones de malla en la parte superior mantienen la transpirabilidad alta.",
+        "detalles-producto": [{
+            "detalle-1": "Cuero sintético 55 % poliéster reciclado, 45 % poliuretano",
+            "detalle-2": "Paneles de malla en la parte superior",
+            "detalle-3": "Palma antideslizante",
+            "detalle-4": "Tira ajustable de cierre por contacto en la muñeca",
+            "detalle-5": "Tejido que se seca en los pulgares",
+            "detalle-6": "Color del artículo: Black",
+            "detalle-7": "Número de artículo: II5598"
+            }]
+        }
+]
