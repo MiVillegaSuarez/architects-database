@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "666a4f83b4e3969b51089f9f"
+  },
+  "tipo_cerveza": "Lagers",
+  "cantidad_producida": 150,
+  "fecha_produccion": "2021-02-19",
+  "materia_prima_usada": [
+    {
+      "nombre": "Malta",
+      "cantidad": 10
+    },
+    {
+      "nombre": "Lupulo",
+      "cantidad": 2
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 20
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "666a5495b4e3969b51089fa1"
+  },
+  "tipo_cerveza": "Ales",
+  "cantidad_producida": 330,
+  "fecha_produccion": "2021-05-29",
+  "materia_prima_usada": [
+    {
+      "nombre": "Malta",
+      "cantidad": 25
+    },
+    {
+      "nombre": "Lupulo",
+      "cantidad": 12
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 50
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "666a5537b4e3969b51089fa2"
+  },
+  "tipo_cerveza": "VilSua",
+  "cantidad_producida": 570,
+  "fecha_produccion": "2021-08-31",
+  "materia_prima_usada": [
+    {
+      "nombre": "Malta",
+      "cantidad": 79
+    },
+    {
+      "nombre": "Lupulo",
+      "cantidad": 23
+    },
+    {
+      "nombre": "Agua",
+      "cantidad": 95
+    }
+  ]
+}]

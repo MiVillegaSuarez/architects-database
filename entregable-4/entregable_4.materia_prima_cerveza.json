@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "666a558fb4e3969b51089fa6"
+  },
+  "nombre": "Malta",
+  "cantidad_disponible": 650
+},
+{
+  "_id": {
+    "$oid": "666a55edb4e3969b51089fa7"
+  },
+  "nombre": "Lupulo",
+  "cantidad_disponible": 350
+},
+{
+  "_id": {
+    "$oid": "666a5605b4e3969b51089fa8"
+  },
+  "nombre": "Agua",
+  "cantidad_disponible": 870
+}]

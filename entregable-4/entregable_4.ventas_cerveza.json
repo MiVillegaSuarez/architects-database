@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "666cd4dc86a91e3c8905b65e"
+  },
+  "fecha_venta": "18-06-2023",
+  "tipo_cerveza": "Lagers",
+  "cantidad_vendida": 7,
+  "total_venta": 93.8
+},
+{
+  "_id": {
+    "$oid": "666cd5a886a91e3c8905b662"
+  },
+  "fecha_venta": "21-07-2023",
+  "tipo_cerveza": "Ales",
+  "cantidad_vendida": 4,
+  "total_venta": 50
+},
+{
+  "_id": {
+    "$oid": "666cd5d186a91e3c8905b663"
+  },
+  "fecha_venta": "11-09-2023",
+  "tipo_cerveza": "VilSua",
+  "cantidad_vendida": 13,
+  "total_venta": 227.5
+}]

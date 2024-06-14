@@ -1,0 +1,21 @@
+[{
+  "_id": {
+    "$oid": "666a56a3b4e3969b51089fb5"
+  },
+  "nombre": "Lagers",
+  "precio": 13.4
+},
+{
+  "_id": {
+    "$oid": "666a56d4b4e3969b51089fb6"
+  },
+  "nombre": "Ales",
+  "precio": 12.5
+},
+{
+  "_id": {
+    "$oid": "666a56f1b4e3969b51089fba"
+  },
+  "nombre": "VilSua",
+  "precio": 17.5
+}]
